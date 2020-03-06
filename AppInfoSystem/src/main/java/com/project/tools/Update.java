@@ -5,5 +5,5 @@ package com.project.tools;
  *
  */
 public interface Update {
-
+	public int add()throws Exception;
 }
